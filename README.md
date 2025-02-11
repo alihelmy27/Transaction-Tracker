@@ -27,7 +27,7 @@ A simple and intuitive web application to track your income and expenses. Built 
 ## How to Use
 
 # Clone the repository
-git clone https://github.com/alihelmy27/Transaction-Tracker/tree/master
+```git clone https://github.com/alihelmy27/Transaction-Tracker/tree/master```
 # Install dependencies
 ``` npm install , npm install yup ```
 # Run the app
