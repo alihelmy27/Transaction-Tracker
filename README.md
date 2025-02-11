@@ -4,11 +4,12 @@ A simple and intuitive web application to track your income and expenses. Built 
 
 ## Features
 
-- **Add Transactions**: Easily add income or expenses with a description and amount.
+- **Add Transactions**: Easily add income or expenses with a name , amount and category.
 - **Balance Tracking**: Automatically calculates your total balance.
 - **Transaction History**: View a list of all your transactions.
 - **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices.
 - **Delete Transactions**: Remove transactions with a single click.
+- **Category Filtering**: Filter Transaction List Based on Categories.
 
 
 ## Technologies Used
