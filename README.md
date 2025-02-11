@@ -32,7 +32,6 @@ git clone https://github.com/alihelmy27/Transaction-Tracker.git
 2️⃣ **Install dependencies**
 ```bash
 npm install
-npm install yup
 ```
 3️⃣ **Run the app**
 ```bash
